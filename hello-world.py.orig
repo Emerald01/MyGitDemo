@@ -1,0 +1,5 @@
+print("Hello World from dev A")
+<<<<<<< HEAD
+print("Hello World from dev B")
+=======
+>>>>>>> 46540e4dfa0ea45d0bd9e6274aa79bd197cd5bbc
